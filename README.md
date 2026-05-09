@@ -1,7 +1,4 @@
-<div align="center">
-<img src="https://i.pinimg.com/736x/89/2f/24/892f24a2545247d10f12788ebdafc650.jpg" align="center" style="width: 100%" />
-</div>  
-  
+
 
 ### **<div align="center">Hi there 👋, my name is Stanislav</div>**  
   
