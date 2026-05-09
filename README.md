@@ -9,6 +9,7 @@ C++ ⚙️ — Systems programming
 Bash / PowerShell 🖥️ — Automation scripting 
 
    🖧 DevOps:
+   
 Linux Administration 🐧 — Ubuntu, Arch 
 Docker & Kubernetes 📦 
 CI/CD 🔄 — Git, GitHub Actions, GitLab CI 
